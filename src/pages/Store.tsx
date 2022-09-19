@@ -1,7 +1,9 @@
 import React from 'react'
-
+import storeItems from "../data/items.json"
 export const Store = () => {
   return (
-    <div>Store</div>
+    <>
+      
+    </>
   )
 }

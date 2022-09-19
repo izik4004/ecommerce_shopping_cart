@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "/img/computer.jpeg"
+    },
+    {
+        "id":1,
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "/img/download.jpeg"
+    },
+    {
+        "id":1,
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "/img/flash.jpg"
+    },
+    {
+        "id":1,
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "/img/mouse.jpg"
+    }
+]
